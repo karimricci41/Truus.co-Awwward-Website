@@ -1,6 +1,6 @@
 {
   "name": "truus.co-awwward-website",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A modern Awwwards-inspired interactive website featuring smooth GSAP animations, creative UI interactions, immersive motion design, and experimental layouts, built to showcase premium frontend experiences similar to SOTD-level digital projects.",
   "main": "src/index.js",
   "scripts": {
